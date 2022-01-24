@@ -9,15 +9,22 @@ const marshaller = require("@aws-sdk/eventstream-marshaller"); // for converting
 const util_utf8_node = require("@aws-sdk/util-utf8-node"); // utilities for encoding and decoding UTF8
 const eventStreamMarshaller = new marshaller.EventStreamMarshaller(util_utf8_node.toUtf8, util_utf8_node.fromUtf8);
 
+/// ------------------- VAUES TO CHANGE 
+
 // AWS Region
 const awsRegion = '';
+
 // AWS Access Key and Secret for IAM with transcribe permissions
 const accessKey = '';
 const secretKey = '';
-// Location where FLAC file will be saved
+
+// Location where FLAC audio file will be saved
 const outfile = '/Path/to/outfile/on/your/local/computer/audio.flac';
 
-const streamUrl = 'https://path-to-any-stream.cloudfront.net/livecf/now1/playlist.m3u8';
+// Path to your m3u8 stream
+const streamUrl = 'https://path-to-any-stream.cloudfront.net/playlist.m3u8';
+
+/// ------------------- END VAUES TO CHANGE 
 
 /**
  * Main function opens the Gstreamer video feed and 
@@ -27,7 +34,6 @@ const streamUrl = 'https://path-to-any-stream.cloudfront.net/livecf/now1/playlis
 async function startTranscription() {
 
     const url = createPresignedUrl();
-    const streamUrl = streams[3];
 
     await openSocketConnection(url);
 
