@@ -1,12 +1,19 @@
 
 ### INSTALL GSTREAMER ON MAC ###
+
+Followed instructions here to install GStreamer on Mac:
+
+`https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-cpp`
+
+Summary:
+
 1. `mkdir -p amazon-kinesis-video-streams-producer-sdk-cpp/build`
 2. `cd amazon-kinesis-video-streams-producer-sdk-cpp/build`
 3. `brew install pkg-config openssl cmake gstreamer gst-plugins-base gst-plugins-good gst-plugins-bad gst-plugins-ugly log4cplus gst-libav`
 4. `export PKG_CONFIG_PATH=/usr/local/opt/openssl/lib/pkgconfig`
 5. `cmake .. -DBUILD_DEPENDENCIES=OFF -DBUILD_GSTREAMER_PLUGIN=ON`
 
-### TO USE ###
+### QUICK USE ###
 Change AWS Keys and paths in `main.js` and run `node run main.js`
 
 ### Get Information about a stream ###
