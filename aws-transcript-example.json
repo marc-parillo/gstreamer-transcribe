@@ -1,0 +1,216 @@
+{
+    "Transcript": {
+        "Results": [
+            {
+                "Alternatives": [
+                    {
+                        "Items": [
+                            {
+                                "Confidence": 0.8065,
+                                "Content": "Okay",
+                                "EndTime": 0.4375,
+                                "StartTime": 0.07,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "together",
+                                "EndTime": 1.3175,
+                                "StartTime": 0.6075,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "with",
+                                "EndTime": 1.5975,
+                                "StartTime": 1.3175,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "members",
+                                "EndTime": 2.1425,
+                                "StartTime": 1.5975,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "of",
+                                "EndTime": 2.3275,
+                                "StartTime": 2.1425,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "the",
+                                "EndTime": 2.4275,
+                                "StartTime": 2.3275,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 0.9955,
+                                "Content": "King",
+                                "EndTime": 2.7275,
+                                "StartTime": 2.4275,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "family",
+                                "EndTime": 3.7875,
+                                "StartTime": 2.7275,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Content": ",",
+                                "EndTime": 3.7875,
+                                "StartTime": 3.7875,
+                                "Type": "punctuation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "and",
+                                "EndTime": 4.3875,
+                                "StartTime": 4.1875,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "it",
+                                "EndTime": 4.5375,
+                                "StartTime": 4.3875,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "is",
+                                "EndTime": 4.6775,
+                                "StartTime": 4.5375,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "an",
+                                "EndTime": 4.7975,
+                                "StartTime": 4.6775,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 0.9672,
+                                "Content": "honor",
+                                "EndTime": 5.2725,
+                                "StartTime": 4.7975,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "to",
+                                "EndTime": 5.4275,
+                                "StartTime": 5.2725,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "be",
+                                "EndTime": 5.6275,
+                                "StartTime": 5.4275,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "with",
+                                "EndTime": 5.8375,
+                                "StartTime": 5.6275,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "you",
+                                "EndTime": 5.9675,
+                                "StartTime": 5.8375,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "today",
+                                "EndTime": 6.6875,
+                                "StartTime": 5.9675,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Content": ",",
+                                "EndTime": 6.6875,
+                                "StartTime": 6.6875,
+                                "Type": "punctuation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "as",
+                                "EndTime": 7.3275,
+                                "StartTime": 7.1075,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 0.9976,
+                                "Content": "our",
+                                "EndTime": 7.4675,
+                                "StartTime": 7.3275,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 1,
+                                "Content": "nation",
+                                "EndTime": 7.9075,
+                                "StartTime": 7.4675,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Confidence": 0.9966,
+                                "Content": "remembers",
+                                "EndTime": 8.735,
+                                "StartTime": 7.9075,
+                                "Type": "pronunciation",
+                                "VocabularyFilterMatch": false
+                            },
+                            {
+                                "Content": ".",
+                                "EndTime": 8.735,
+                                "StartTime": 8.735,
+                                "Type": "punctuation",
+                                "VocabularyFilterMatch": false
+                            }
+                        ],
+                        "Transcript": "Okay together with members of the King family, and it is an honor to be with you today, as our nation remembers."
+                    }
+                ],
+                "EndTime": 8.735,
+                "IsPartial": false,
+                "ResultId": "5444f961-0b1f-4508-b561-ba3b3ef46010",
+                "StartTime": 0.07
+            }
+        ]
+    }
+}
